@@ -1,0 +1,3 @@
+/home/doughnut/桌面/欣竹视觉_2023_框架/BamThriving-VISION/build/CMakeFiles/rebuild_cache.dir
+/home/doughnut/桌面/欣竹视觉_2023_框架/BamThriving-VISION/build/CMakeFiles/BamThriving-VISION.dir
+/home/doughnut/桌面/欣竹视觉_2023_框架/BamThriving-VISION/build/CMakeFiles/edit_cache.dir
